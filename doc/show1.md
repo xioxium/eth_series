@@ -73,7 +73,7 @@ These are two nice utility that give us the opportunity to run hardhat straight 
 xioxium@ethereum:~$ npm install -g hardhat-shorthand
 xioxium@ethereum:~$ hh console
 xioxium@ethereum:~$ hardhat-completion install
-````
+```
 
 the second command it is a wrapper for `npx hardhat console`, short story it just executes nodejs to run hardhat, but still it's cool, I personally not use it, and the hardhat-completion work good with the bash.  
 just check it on the Hardhat website how to use it [hardhat-completion](https://hardhat.org/guides/shorthand.html)
@@ -83,7 +83,7 @@ just check it on the Hardhat website how to use it [hardhat-completion](https://
 The plugins you can use with hardhat are a lot but one popped up from the crowd and let me see the future
 [@eth-optimism/plugins/hardhat/compiler](https://hardhat.org/plugins/eth-optimism-plugins-hardhat-compiler.html) I didn't try it because I'm still focusing on the current stage of ethereum, but keep an eye on it doesn't seem a bad idea.
 
-###### good night and I'm going to cook carbonara
+###### good night and I'm going to cook carbonara 🍝
 The #show 1 is over but still we will see together what we can do with hardhat in the next shows enjoy your day and wear a **HAT**
 
 see you.
