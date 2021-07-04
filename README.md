@@ -17,7 +17,7 @@ Anytime I'll add a new argument to the eth_series, you will be able to access it
 
 You, reader so affectionate, remember that technologies go very fast so maybe the content of this eth_series it is already obsolete. So don't kick my butt if something goes wrong with your learning and just email me I'll do my best to see if it is fixable or not __oooooor__ why not to collaborate to the open source project on GitHub? Everyone welcome.  
 
-ref date eth_series #index __JUNE 2021__
+ref date eth_series #index __JULY 2021__
 
 Before asking read, please, what this blog **IS** and what **is NOT**:  
 * **is NOT** a subliminal advertising blog, any proprietary not open source project will not be mentioned or referenced in pictures or videos. If you wish to be advertised please contact me, and we will talk about. Every advertisement to **non** open source project will be **CLEARLY** exposed.
@@ -35,4 +35,4 @@ Before asking read, please, what this blog **IS** and what **is NOT**:
 
 *Said so, check 👇 for the shows*
 ## <a id="index" name="index"></a>eth_series #index
-## eth_series [#show 1](https://github.com/xioxium/eth_series/blob/main/doc/show1.md) Folks, wear Hardhat don't get wet. _JUNE 2021_
+## eth_series [#show 1](https://github.com/xioxium/eth_series/blob/main/doc/show1.md) Folks, wear Hardhat don't get wet. _JULY 2021_
