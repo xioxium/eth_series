@@ -121,8 +121,11 @@ it goes so deeply in the explanation that you can see the logic behind the Ether
   
 ### about Bitwise operator????? 
 ####check this article right here for [Bitwise AND](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_AND) 🤯
+
 ####check this article right here for [Bitwise OR](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_OR) 🤯
+
 ####check this article right here for [Bitwise NOT](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Bitwise_XOR) 🤯
+
 #### [I started reading this too, it's something related to IBM z/OS specifically for C++ language](https://www.ibm.com/docs/en/zos/2.4.0?topic=operators-binary-expressions) Obviously folks every programming language speaks his own words but the definitions can clarify these arguments. 
 
 > A small note about my declaration on the [#index](https://github.com/xioxium/eth_series/blob/main/README.md#subliminal-things) page of this blog:
