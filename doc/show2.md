@@ -16,7 +16,7 @@ With programming language it is not like this, period.
 It's important to know how to write the code correctly so doing the machine will execute the routine, or the infinite routines, we "told" it to do. We need to know how in this specific language we declare a function for example, we need to know the available types for variables, and we need to get used to the syntax. Like, are hyphens allowed? what about semicolons? operators? does this language have memory allocation? so on.
 
 So I'm glad in this foggy Saturday to write my self a summary of the Solidity Language types starting with `booleans` and finishing with `int`| `uint`.  
-for all of you interested in reading the manual you can read the **[IT](https://docs.soliditylang.org/)** 👈 at this link. Now as now __AUGUST 2021__ the version of the manual is __*#0.8.6*__
+for all of you interested in reading the manual you can read **[IT](https://docs.soliditylang.org/)** 👈 at this link. Now as now __AUGUST 2021__ the version of the manual is __*#0.8.6*__
 
 ## booleans 😁
 
