@@ -20,7 +20,7 @@ You, reader so affectionate, remember that technologies go very fast so maybe th
 ref date eth_series #index __JULY 2021__
 
 Before asking read, please, what this blog **IS** and what **is NOT**:  
-<a id="subliminal-things" name="subliminal-things"></a> #subliminal-things
+## <a id="subliminal-things" name="subliminal-things"></a>subliminal-things
 * **is NOT** a subliminal advertising blog, any proprietary not open source project will not be mentioned or referenced in pictures or videos. If you wish to be advertised please contact me, and we will talk about. Every advertisement to **non** open source project will be **CLEARLY** exposed.
 * **IS** a personal opinion about how to shoot the prefigured target. Everyone achieves their goals in different ways.
 * **is NOT** a **MUST**
