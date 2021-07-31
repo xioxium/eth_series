@@ -50,7 +50,7 @@ so check if your logic can skip the side-effects, booleans are evil uhauhauh
 structure declaration of integers:  
 `<type>` | `<visibility>` | `<name>` |
 ```solidity
-uint8 oneUint = 0 
+uint8 internal oneUint = 0 
 ```
 
 sizes for `int` AND `uint` siblings. I'll initiate the variables with the max value they can handle and commenting for the minimum value
