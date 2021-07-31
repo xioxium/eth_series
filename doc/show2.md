@@ -137,15 +137,15 @@ it goes so deeply in the explanation that you can see the logic behind the Ether
 check this discussion and come back here 😉 <a href="https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256#answer-3071" target="_blank">jump to #integer costs money!</a>
 
 Are you surprised? Me not that much, because I keep in mind that ethereum is a blockchain for financial operations, so it's clear now the `big why` integers are so important because, we talk money not just `1+1 equal 2`.  
-I see every day some dApp or swap being hacked or exploited and the thing is getting so easy because, as me, we all want to make some money right? The bad actors too are going for it, and the bad actors know very well that due to the Holy Grail assumption:
+Every once in a while I see some dApps or swappers being hacked, and or exploited, the thing is going wild and getting so easy to achieve because, as me, we all want to earn money right? The bad actors too are going for it, and the bad actors know very well that due to the `Holy Grail` assumption:
 
 >you're going to be rich with cryptos in a second, just deploy NOW your dApp with this automated script and earn 200% on your stack!
 
 And then it comes the first shock. Huge amount of money to deploy and a lot of vulnerabilities going around and bad actors know this very well.  
 This is why is important to know the rules behind the solidity language, less money to deploy, more secure code and less headache after.  
-I said **less** not **NO**. 😎
+I said **less** didn't say **NO**. 😎
 
-Short story the bigger the integer the smaller the costs, pretty not logical right, but math is math, and it has its rules no matter what.
+Short story, the bigger the integer the smaller the costs, pretty not logical right, but math is math, and it has its rules no matter what.
 
 but <a href="https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256#answer-3111" target="_blank">it could cost less if in structs!</a>
 
