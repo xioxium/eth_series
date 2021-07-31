@@ -131,7 +131,7 @@ it goes so deeply in the explanation that you can see the logic behind the Ether
 > A small note about my declaration on the [#index](https://github.com/xioxium/eth_series/blob/main/README.md#subliminal-things) page of this blog:
 > I consider open source also documentation from proprietary software, hardware houses because free access to learning resources are great improvements.
 
-## <a id="integers-costs-money" name="integers-costs-money"></a>integer costs money
+## <a id="integer-costs-money" name="integer-costs-money"></a>integer costs money
 [back to the #integers!](#integer-costs-money-back)   
 ⚠️ so yes, it depends on the size of the integer how much you pay for deploying your smart contract
 check this discussion and come back here 😉 <a href="https://ethereum.stackexchange.com/questions/3067/why-does-uint8-cost-more-gas-than-uint256#answer-3071" target="_blank">jump to #integer costs money!</a>
