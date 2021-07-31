@@ -20,7 +20,7 @@ You, reader so affectionate, remember that technologies go very fast so maybe th
 ref date eth_series #index __JULY 2021__
 
 Before asking read, please, what this blog **IS** and what **is NOT**:  
-* **is NOT** a subliminal advertising blog, any proprietary not open source project will not be mentioned or referenced in pictures or videos. If you wish to be advertised please contact me, and we will talk about. Every advertisement to **non** open source project will be **CLEARLY** exposed.
+* <a id="subliminal-things" name="subliminal-things"></a>**is NOT** a subliminal advertising blog, any proprietary not open source project will not be mentioned or referenced in pictures or videos. If you wish to be advertised please contact me, and we will talk about. Every advertisement to **non** open source project will be **CLEARLY** exposed.
 * **IS** a personal opinion about how to shoot the prefigured target. Everyone achieves their goals in different ways.
 * **is NOT** a **MUST**
 * **IS** a way for me to earn **ETH** and I mean it, no money just cryptos. by default you can donate me ETH but if you wish to donate other cryptos please be in touch, I will evaluate the project behind the token you wish to donate, and I'll back to you, maybe...
@@ -36,3 +36,4 @@ Before asking read, please, what this blog **IS** and what **is NOT**:
 *Said so, check 👇 for the shows*
 ## <a id="index" name="index"></a>eth_series #index
 ## eth_series [#show 1](https://github.com/xioxium/eth_series/blob/main/doc/show1.md) Folks, wear Hardhat don't get wet. _JULY 2021_
+## eth_series [#show 2](https://github.com/xioxium/eth_series/blob/main/doc/show2.md) Solidity Programming Language. types booleans and int | uint. _AUGUST 2021_
