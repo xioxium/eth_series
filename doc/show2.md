@@ -9,7 +9,7 @@
 
 Hello,  
 have you ever had that feeling mixed of frustration and excitement when you meet a new interesting person? I feel frustrated because I still don't know how to interact properly with this person, but in the same time there is excitement because I have someone new to talk with. However, someone to tell my story in a new way.  
-Getting to learn a new programming language is the same with the little addiction, there is a manual to read and understand. In real life with new relationships we know from experience what to don't do to result rude, what to do to result nice and bla bla bla. At the end of the story the instinct and feelings will tell us what's good what's bad, and we will take an action in the right direction, maybe the right one.  
+Getting to learn a new programming language is the same with the little addition, there is a manual to read and understand. In real life with new relationships we know from experience what to don't do to result rude, what to do to result nice and bla bla bla. At the end of the story the instinct and feelings will tell us what's good what's bad, and we will take an action in the right direction, maybe the right one.  
 
 With programming language it is not like this, period.  
 
