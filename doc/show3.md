@@ -42,6 +42,10 @@ I liked it so much that I became a bit cocky against digital photography, affirm
 
 > Always keep in mind that this is my own point of view, and you can use the whatever you want because... [#read first what IS and what IS NOT](https://github.com/xioxium/eth_series/blob/main/README.md#subliminal-things)
 
+I'm going to install two extensions, search for it into the extensions panel:
+- solidity
+- STFP
+
 ![VSCode-extensions-panel](./assets/img/extensions-panel.png)
 
 so, so what?!?
