@@ -80,7 +80,7 @@ remember to skip the comments [#] `copy & paste`ing folks
 # I'm not going to develop for nodejs so I don't need the development packages
 ```
 
-![VSCode-screenshot+shell](./assets/img/nodejs-installation-fedora34.png)
+![nodejs-installation-fedora34](./assets/img/nodejs-installation-fedora34.png)
 
 > ℹ️ sheet ;) `dnf --setopt=install_weak_deps=false`  
 > I always skip to install not required dependencies because of a very simple reason:
@@ -95,7 +95,7 @@ remember to skip the comments [#] `copy & paste`ing folks
 # it will ask for some infos, I fill it up as I like it
 ```
 
-![VSCode-screenshot+shell](./assets/img/npm-init.png)
+![npm-init](./assets/img/npm-init.png)
 
 our VSCode friendly IDE has got the package.json, at this time I don't need to set any entrypoint or git or any test. I'll do it later, maybe, just if I really need it, you know.
 
@@ -119,7 +119,7 @@ From you Alchemy Dashbord create an app is very simple:
 
 > ⚠️ if you chose a different network than Rinkeby you need to update the [hardhat.config.js](https://github.com/xioxium/eth_series/blob/main/doc/show3.md#--hardhat-config-file)
 
-![VSCode-screenshot+shell](./assets/img/alchemy-create-app.png)
+![alchemy-create-app](./assets/img/alchemy-create-app.png)
 
 ### - Hardhat
 Four main functions we will use:
@@ -163,7 +163,7 @@ I'm going to modify the file hardhat.config.js later because first I want to gen
 
 **get your Alchemy App Key first. Be sure to copy the HTTP, just for now.**
 
-![VSCode-screenshot+shell](./assets/img/alchemy-copy-key.png)
+![alchemy-copy-key](./assets/img/alchemy-copy-key.png)
 
 using VSCode write this on the new touched file wallet.generator.js
 ```javascript
