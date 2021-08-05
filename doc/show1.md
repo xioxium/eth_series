@@ -26,6 +26,7 @@ the last command will show us another nice graphic:
 ![hardhat](./assets/img/hardhat.png)
 here we can choose, by using the arrow keys of our keyboard, between a sample configuration project, or an empty configuration file, in most of the posts I'll write you'll see me opting in for the second one. Fun fact I never chose to ´Quit´!´ 😃
 
+<a id="before-carbonara" name="before-carbonara">🍝</a>  
 the configuration file I'll use to deploy "the very basic smart contract" on the rinkeby test network, through the help of my favourite ethereum node API [Alchemy Supernode](https://www.alchemy.com/supernode), it looks like this:
 ```js
 /**
