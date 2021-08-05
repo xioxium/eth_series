@@ -320,3 +320,6 @@ Ok folks, the today show is over. Kind of glad, if I got to speak the truth ;)
 #### I have left the best part for the next show 
 I will write a smart contract with some funky methods to play with and waste a bit of rinkeby ETH, just like some human beings do with real money money jump here crash there, I 'll do the same to have fun.
 
+have a good alchemist day, chose wisely if you want to be the 27 years tortured Campanella or to be burnt in a public square like our beloved Giordano Bruno.
+Hugs y'all!
+
