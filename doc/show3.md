@@ -136,8 +136,12 @@ I'm going to modify the file hardhat.config.js later because first I want to gen
 [xioxium@ethereum eth_series]$ touch scripts/wallet.generator.js
 ```
 
+
+**get your Alchemy App key first**
+
+![VSCode-screenshot+shell](./assets/img/alchemy-copy-key.png)
+
 using VSCode write this on the new touched file wallet.generator.js
-get your Alchemy App key -> [anchor](https://github.com/xioxium/eth_series/blob/main/doc/show3.md#alchemy-key)
 ```javascript
 // requires
 const fs = require('fs')
@@ -221,9 +225,6 @@ function initialization(AlchemyProjectKey){
 initialization(YOUR_ALCHEMY_API_KEY)
 
 ```
-![VSCode-screenshot+shell](./assets/img/alchemy-copy-key.png)
-<a id="alchemy-key" name="alchemy-key"></a>
-
 go back to shell and run the script.
 ```bash
 [xioxium@ethereum eth_series]$ node script/wallet.generator.js
