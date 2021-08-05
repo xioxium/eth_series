@@ -137,7 +137,7 @@ I'm going to modify the file hardhat.config.js later because first I want to gen
 ```
 
 
-**get your Alchemy App key first**
+**get your Alchemy App key first be sure to copy the https, just for now.**
 
 ![VSCode-screenshot+shell](./assets/img/alchemy-copy-key.png)
 
