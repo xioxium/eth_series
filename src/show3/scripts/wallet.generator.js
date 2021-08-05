@@ -8,7 +8,13 @@ const fs = require('fs')
  * to be excluded from git repository when pushing the changes online
  */
 function gitignoreGeneration(){
-    const gitignore = 'node_modules\n.env'
+
+    // array of the files intended to be gitignore joined by a new line character to return a nice string
+    const gitignore = [
+        'node_modules',
+        '.env'
+    ].join('\n')
+
     fs.writeFile('./.gitignore', gitignore, (error)=>{
         if (error) throw error
         console.log('.gitignore written on disk')
