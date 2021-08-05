@@ -221,9 +221,8 @@ function initialization(AlchemyProjectKey){
 initialization(YOUR_ALCHEMY_API_KEY)
 
 ```
-
-<a id="alchemy-key" name="alchemy-key"></a>
 ![VSCode-screenshot+shell](./assets/img/alchemy-copy-key.png)
+<a id="alchemy-key" name="alchemy-key"></a>
 
 go back to shell and run the script.
 ```bash
