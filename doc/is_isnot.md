@@ -1,4 +1,4 @@
-# eth_series #is, is not.
+# eth_series # is, is not.
 ###### Before asking read, please, what this blog IS and what is NOT.
 
 ![ethereum hero](./assets/img/hero.png)
