@@ -5,7 +5,7 @@
 ###### image Copyright (c) 2019 ethereum.org contributors
 
 #### [eth_series #show1 source code](https://github.com/xioxium/eth_series/blob/main/doc/show1.md)
-#### [jump back to the #index!](https://github.com/xioxium/eth_series/blob/main/README.md)
+#### [jump back to the #index!](https://github.com/xioxium/eth_series/blob/main/doc/index.md)
 
 Hello,  
 I want to start our journey in this colorful world of ethereum, introducing the Ethereum IDE Hardhat.  

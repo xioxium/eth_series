@@ -5,7 +5,7 @@
 ###### image Copyright (c) 2019 ethereum.org contributors
 
 #### [eth_series #show2 source code](https://github.com/xioxium/eth_series/blob/main/doc/show2.md)
-#### [jump back to the #index!](https://github.com/xioxium/eth_series/blob/main/README.md)
+#### [jump back to the #index!](https://github.com/xioxium/eth_series/blob/main/doc/index.md)
 
 Hello,  
 have you ever had that feeling mixed of frustration and excitement when you meet a new interesting person? I feel frustrated because I still don't know how to interact properly with this person, but in the same time there is excitement because I have someone new to talk with. However, someone to tell my story in a new way.  
@@ -128,7 +128,7 @@ it goes so deeply in the explanation that you can see the logic behind the Ether
 
 #### [I started reading this too, it's something related to IBM z/OS specifically for C++ language](https://www.ibm.com/docs/en/zos/2.4.0?topic=operators-binary-expressions) Obviously folks every programming language speaks his own words but the definitions can clarify these arguments. 
 
-> A small note about my declaration on the [#index](https://github.com/xioxium/eth_series/blob/main/README.md#subliminal-things) page of this blog:
+> A small note about my declaration on the [#index](https://github.com/xioxium/eth_series/blob/main/doc/is_isnot.md) page of this blog:
 > I consider open source also documentation from proprietary software, hardware houses because free access to learning resources are great improvements.
 
 ## <a id="integer-costs-money" name="integer-costs-money"></a>integer costs money

@@ -5,10 +5,10 @@
 ###### image Copyright (c) 2019 ethereum.org contributors
 
 #### [eth_series #show3 source code](https://github.com/xioxium/eth_series/blob/main/doc/show3.md)
-#### [eth_series #show3 source code for the application](https://github.com/xioxium/eth_series/tree/main/src/show3)
-#### [jump back to the #index!](https://github.com/xioxium/eth_series/blob/main/README.md)
+#### [eth_series #show3/3b source code for the application](https://github.com/xioxium/eth_series/tree/main/src/show3)
+#### [jump back to the #index!](https://github.com/xioxium/eth_series/blob/main/doc/index.md)
 
-⚠️ `links doesn't open in a new browser tab, just saying`
+⚠️ `links don't open in a new browser tab, just saying`
 
 ## - intro greetings
 hello everybody, long time since the last carbonara 🍝  
@@ -40,7 +40,7 @@ I liked it so much that I became a bit cocky against digital photography, affirm
 
 ## - Visual Studio Code, [let's start by grabbing it!](https://code.visualstudio.com/Download)
 
-> Always keep in mind that this is my own point of view, and you can use the whatever you want because... [#read first what IS and what IS NOT](https://github.com/xioxium/eth_series/blob/main/README.md#subliminal-things)
+> Always keep in mind that this is my own point of view, and you can use the whatever you want because... [#read first what IS and what IS NOT](https://github.com/xioxium/eth_series/blob/main/doc/is_isnot.md)
 
 I'm going to install two extensions, search for it into the extensions panel:
 - solidity
